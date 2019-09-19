@@ -1,2 +1,1 @@
-Pods Chocolate physical
-Pods Choclate phone
+Chocolate
